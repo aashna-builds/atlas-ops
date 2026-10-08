@@ -1,0 +1,15 @@
+{
+  "name": "hugelopsguru",
+  "description": "AI skills for Hugel U.S. operations and logistics",
+  "owner": {
+    "name": "Aashna Sethi",
+    "email": "aashna.sethi@kaldway.com"
+  },
+  "plugins": [
+    {
+      "name": "hugel-ops-ai-kit",
+      "source": "./hugel-ops-ai-kit",
+      "description": "AI toolkit for Hugel U.S. operations and logistics — vendor RFPs and evaluation, program status and RAID, vendor performance and QBRs, SOPs, and training"
+    }
+  ]
+}
