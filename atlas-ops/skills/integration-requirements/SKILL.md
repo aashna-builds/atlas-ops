@@ -1,6 +1,6 @@
 ---
 name: integration-requirements
-description: Turns business needs into clear requirements for system integrations (Salesforce, SAP, ordering, shipping, customer-service tools): process flows, field mappings, data definitions, user stories, acceptance criteria, test scenarios, and cutover plans. Use when she's working on integrations, CRM/ERP changes, or documenting how systems should talk.
+description: Turns business needs into clear requirements for system integrations (Salesforce, SAP, ordering, shipping, customer-service tools) into process flows, field mappings, data definitions, user stories, acceptance criteria, test scenarios, and cutover plans. Use when she's working on integrations, CRM/ERP changes, or documenting how systems should talk.
 ---
 
 # Integration Requirements (Atlas Ops)

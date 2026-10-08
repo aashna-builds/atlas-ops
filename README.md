@@ -4,7 +4,7 @@ An AI chief of staff for U.S. operations and logistics. Atlas doesn't just draft
 
 Atlas never sends, posts, or shares anything. It drafts; you decide. It never invents data (gaps are marked `[TO CONFIRM]`), and it flags anything touching product quality, storage, complaints, or regulatory steps for Quality/Regulatory review.
 
-## Skills (23)
+## Skills (37)
 
 **Start**
 | Skill | What it does |
@@ -19,6 +19,8 @@ Atlas never sends, posts, or shares anything. It drafts; you decide. It never in
 | `meeting-to-actions` | Transcript in; decisions, owners, deadlines, RAID entries, follow-up drafts, and a status line out. |
 | `inbox-triage` | Sorts email into reply-now, delegate, wait, ignore; drafts replies; flags urgent, leadership, and vendor-SLA items. |
 | `weekly-leadership-update` | Drafts your weekly update to your manager from the week's activity. |
+| `meeting-prep` | Pre-meeting brief: who's in the room, context, likely questions, landmines, and your asks. |
+| `end-of-day-debrief` | Five-minute shutdown: what got done, what carried over, tomorrow's top three, first-thing drafts. |
 
 **Thinking partner**
 | Skill | What it does |
@@ -29,6 +31,26 @@ Atlas never sends, posts, or shares anything. It drafts; you decide. It never in
 | `decision-memo` | One-page options-and-recommendation memo with a specific ask. |
 | `audience-translator` | One update, many audiences: leadership, team, vendor, cross-functional. |
 | `stakeholder-map` | Who matters, what they care about, and how to bring them along. |
+
+**Crisis and learning**
+| Skill | What it does |
+| --- | --- |
+| `war-room` | Runs the first hour of an incident: roles, timeline log, status updates on a schedule, decisions needed. |
+| `post-mortem` | Blameless review: timeline, causes, what worked, corrective actions with owners. |
+| `complaint-escalation` | Organizes an escalated complaint and drafts a response; routes possible product-quality or safety issues to Quality immediately. |
+| `rehearse` | Role-plays the hard conversation (vendor, leader, stakeholder), then coaches you. |
+| `one-on-one-prep` | Prepares 1:1s with your reports and your manager, including feedback drafts. |
+
+**Money, data, and process**
+| Skill | What it does |
+| --- | --- |
+| `invoice-audit` | Audits invoices and spend against contract rates for overcharges, duplicates, and surcharge creep, with dollar impact. |
+| `contract-obligations` | Pulls SLAs, credits, renewal and notice dates, and exit rights from a contract into a deadline list. |
+| `ask-the-data` | Answers plain-English questions about spreadsheets and exports with evidence and caveats. |
+| `ops-dashboard` | Builds a shareable KPI dashboard page from your data. |
+| `process-mapper` | Turns a described process into a flow diagram and finds bottlenecks and automation opportunities. |
+| `automation-finder` | Finds repetitive work to automate, estimates hours saved, and builds the first automation. |
+| `playbook-builder` | Interviews you and turns your know-how into a reusable team playbook. |
 
 **Builders**
 | Skill | What it does |
@@ -56,6 +78,7 @@ Atlas never sends, posts, or shares anything. It drafts; you decide. It never in
 3. Say: **"Run my week."**
 4. After your next meeting, paste the transcript and say: **"Meeting to actions."**
 5. Before your next big change, say: **"Pre-mortem this plan."**
+6. Got a vendor invoice or contract? Say: **"Audit these invoices"** or **"What did we agree to?"**
 
 ## Install
 

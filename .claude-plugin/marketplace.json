@@ -1,12 +1,15 @@
 {
   "name": "atlas-ops",
-  "description": "Atlas Ops — AI skills for U.S. operations and logistics",
-  "owner": { "name": "Aashna Sethi", "email": "aashna.sethi@kaldway.com" },
+  "description": "Atlas Ops \u2014 AI skills for U.S. operations and logistics",
+  "owner": {
+    "name": "Aashna Sethi",
+    "email": "aashna.sethi@kaldway.com"
+  },
   "plugins": [
     {
       "name": "atlas-ops",
       "source": "./atlas-ops",
-      "description": "An AI chief of staff for U.S. operations and logistics: run my week, meeting-to-actions, inbox triage, pre-mortems, scenario models, negotiation prep, RFPs, SOPs, training, and cold-chain and distribution workflows"
+      "description": "An AI chief of staff for U.S. operations and logistics: run my week, meeting prep and follow-ups, pre-mortems, war room, invoice audits, contract obligations, data analysis, process mapping, negotiation prep, RFPs, SOPs, training, and cold-chain and distribution workflows"
     }
   ]
 }

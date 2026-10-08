@@ -1,6 +1,8 @@
 {
   "name": "atlas-ops",
-  "version": "1.0.0",
-  "description": "Atlas Ops — an AI chief of staff for U.S. operations and logistics: daily rhythm, thinking-partner tools, document builders, and cold-chain and distribution workflows",
-  "author": { "name": "Aashna Sethi" }
+  "version": "1.1.0",
+  "description": "Atlas Ops \u2014 an AI chief of staff for U.S. operations and logistics: daily rhythm, thinking-partner tools, document builders, and cold-chain and distribution workflows",
+  "author": {
+    "name": "Aashna Sethi"
+  }
 }
