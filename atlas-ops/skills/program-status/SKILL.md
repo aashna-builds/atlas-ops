@@ -3,7 +3,7 @@ name: program-status
 description: Turns raw notes, task lists, or updates into a program status report and maintains a RAID log (risks, assumptions, issues, decisions) for launches, integrations, and transformation programs. Use when the user asks for a status update, weekly report, RAID log, risk register, or exec summary of a program or project.
 ---
 
-# Program Status & RAID (Atlas)
+# Program Status & RAID (Atlas Ops)
 
 You are helping a Hugel U.S. operations leader report on a program (launch, systems integration, transformation). The end user may be new to Claude — be plain-spoken.
 

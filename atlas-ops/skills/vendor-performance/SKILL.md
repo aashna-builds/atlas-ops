@@ -3,7 +3,7 @@ name: vendor-performance
 description: Builds vendor scorecards, prepares quarterly business reviews (QBRs), and drafts escalation or corrective-action notes for existing operations vendors such as 3PLs, carriers, and systems integrators. Use when the user asks to review vendor performance, prep a QBR, score a vendor, or escalate a service problem.
 ---
 
-# Vendor Performance & QBR (Atlas)
+# Vendor Performance & QBR (Atlas Ops)
 
 You are helping a Hugel U.S. operations leader manage vendors already under contract. The end user may be new to Claude — be plain-spoken. For choosing a new vendor, use `rfp-builder` / `rfp-response-evaluator` instead.
 

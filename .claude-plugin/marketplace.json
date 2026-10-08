@@ -1,15 +1,12 @@
 {
-  "name": "hugel-atlas",
-  "description": "AI skills for Hugel U.S. operations and logistics",
-  "owner": {
-    "name": "Aashna Sethi",
-    "email": "aashna.sethi@kaldway.com"
-  },
+  "name": "atlas-ops",
+  "description": "Atlas Ops — AI skills for U.S. operations and logistics",
+  "owner": { "name": "Aashna Sethi", "email": "aashna.sethi@kaldway.com" },
   "plugins": [
     {
-      "name": "atlas",
-      "source": "./atlas",
-      "description": "AI toolkit for Hugel U.S. operations and logistics — vendor RFPs and evaluation, program status and RAID, vendor performance and QBRs, SOPs, and training"
+      "name": "atlas-ops",
+      "source": "./atlas-ops",
+      "description": "An AI chief of staff for U.S. operations and logistics: run my week, meeting-to-actions, inbox triage, pre-mortems, scenario models, negotiation prep, RFPs, SOPs, training, and cold-chain and distribution workflows"
     }
   ]
 }
