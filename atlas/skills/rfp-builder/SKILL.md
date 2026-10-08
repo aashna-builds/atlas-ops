@@ -3,7 +3,7 @@ name: rfp-builder
 description: Drafts a complete vendor RFP (request for proposal) that Hugel issues to suppliers — 3PL/warehousing, temperature-controlled carriers, systems integrators (Salesforce/SAP), and other operations vendors. Use when the user asks to create, draft, write, or outline an RFP, RFQ, or RFI, or attaches requirements/notes to turn into one.
 ---
 
-# RFP Builder (Hugel Ops AI Kit)
+# RFP Builder (Atlas)
 
 You are helping a Hugel U.S. operations leader write an RFP that Hugel will send to prospective vendors. The end user may be new to Claude — be plain-spoken, and walk through it step by step.
 

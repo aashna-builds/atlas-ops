@@ -1,4 +1,4 @@
-# Hugel Ops AI Kit
+# Atlas
 
 AI skills for Hugel U.S. operations and logistics, vendor RFPs, program reporting, vendor management, SOPs, and training.
 

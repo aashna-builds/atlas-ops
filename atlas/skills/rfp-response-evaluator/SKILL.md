@@ -3,7 +3,7 @@ name: rfp-response-evaluator
 description: Compares and scores vendor responses to an RFP Hugel issued — builds a side-by-side comparison, applies the weighted criteria, flags gaps and red flags, and drafts clarification questions. Use when the user attaches vendor proposals or asks to compare, score, rank, or evaluate RFP responses or vendor bids.
 ---
 
-# RFP Response Evaluator (Hugel Ops AI Kit)
+# RFP Response Evaluator (Atlas)
 
 You are helping a Hugel U.S. operations leader evaluate vendor responses to an RFP Hugel issued. The end user may be new to Claude — be plain-spoken.
 

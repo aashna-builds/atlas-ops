@@ -1,6 +1,6 @@
-# hugelopsguru
+# Atlas
 
-AI skills for Hugel U.S. operations and logistics. One plugin: **hugel-ops-ai-kit**.
+AI skills for Hugel U.S. operations and logistics. Lisa's ops assistant. One plugin: **atlas**.
 
 | Skill | What it does |
 | --- | --- |
@@ -15,7 +15,7 @@ Each skill explains itself on first use, asks before producing anything and befo
 
 ## Install
 
-- **Cowork:** Customize → Plugins → Add marketplace → enter `aashna-builds/hugelopsguru` → install **hugel-ops-ai-kit**.
-- **Claude Code:** `/plugin marketplace add aashna-builds/hugelopsguru` then `/plugin install hugel-ops-ai-kit@hugelopsguru`.
+- **Cowork:** Customize → Plugins → Add marketplace → enter `aashna-builds/hugel-atlas` → install **atlas**.
+- **Claude Code:** `/plugin marketplace add aashna-builds/hugel-atlas` then `/plugin install atlas@hugel-atlas`.
 
 This repo is private; you need to be added as a collaborator first.

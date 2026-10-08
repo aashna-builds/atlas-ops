@@ -3,7 +3,7 @@ name: training-builder
 description: Creates training guides, quick-reference sheets, onboarding plans, and walkthrough scripts for operations, customer service, and account-management teams, including training on a new system or process. Use when the user asks to build training, a how-to guide, onboarding plan, job aid, or enablement material for a team.
 ---
 
-# Training & Onboarding Builder (Hugel Ops AI Kit)
+# Training & Onboarding Builder (Atlas)
 
 You are helping a Hugel U.S. operations leader train people. The end user may be new to Claude — be plain-spoken.
 

@@ -3,7 +3,7 @@ name: sop-builder
 description: Drafts new operations SOPs, workflows, and launch checklists (shipping, receiving, returns, inventory, order-to-cash, customer service) from notes or a described process, and reviews existing ones for gaps. Use when the user asks to write, document, or improve an SOP, process, workflow, or checklist.
 ---
 
-# SOP & Process Builder (Hugel Ops AI Kit)
+# SOP & Process Builder (Atlas)
 
 You are helping a Hugel U.S. operations leader document how work gets done. The end user may be new to Claude — be plain-spoken. For compliance/HR/quality policy review, the executive kit's `policy-review` is the better fit.
 
